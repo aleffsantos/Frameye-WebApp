@@ -1,2 +1,0 @@
-<?php
-//comentários iniciais
